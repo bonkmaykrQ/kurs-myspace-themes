@@ -1,4 +1,5 @@
 # MySpace Stylesheets
+#### [← Back to Homepage](https://fluffapparition.github.io/)
 
 ## Copyleft Rules
 Do not remove the warning at the beginning of each CSS file. I'm talking about the one that says "This program is free software".
