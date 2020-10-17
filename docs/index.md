@@ -5,9 +5,19 @@ It tells the recipent that they have unrestricted rights to use the stylesheet.
 
 # Compatibility
 
-The recommended platform is desktop Chrome/Opera with a resolution of 1080p or higher and scale set to 100%. If you submit a pull request to add your stylesheet to the repository, you are expected to follow this rule, and your theme must work nicely with all resolutions between 600p and 4k. Responsive CSS support is not required. 
+The recommended platform is desktop Chrome/Opera with a resolution of 1080p or higher and scale set to 100%. If you submit a pull request to add your stylesheet to the repository, you are expected to follow this rule, and your style must work nicely with all resolutions between 600p and 4k. Responsive CSS support is not required. 
 
-* Themes marked with "Responsive" are designed to work with mobile devices.
-* Themes marked with "custom layout" have layout changes such as sticky elements, custom navbars, custom profile cards, foreground animations, or a complete overhaul of the UI. 
-* Themes marked with "scrolling/layered/etc. background" feature GPU-heavy background details.
-* Themes marked with "custom font" have custom fonts in them.
+# Installation
+Copy the code for the style you want, listed below.
+
+## Space Theme
+`@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/Space-latest.css");`
+
+## Donkey Kong Jungle Theme
+`@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/dk_jungle-latest.css");`
+
+## Mac OS X Theme
+`@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/osx-latest.css");`
+
+## McDonalds Theme
+`@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/mcdonalds-latest.css");`
