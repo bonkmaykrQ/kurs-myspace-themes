@@ -16,7 +16,7 @@ Copy the code for the style you want, listed below. Paste it into the CSS box on
 
 ### Space Theme
 `@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/Space-latest.css");`
-![](https://files.gamebanana.com/bitpit/screenshot_20200914_200443.png)
+![](https://cdn.discordapp.com/attachments/766853247918014544/767172440333090816/unknown.png)
 
 ### Donkey Kong Jungle Theme
 `@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/dk_jungle-latest.css");`
