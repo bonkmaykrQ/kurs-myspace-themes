@@ -12,6 +12,8 @@ The recommended platform is desktop Chrome/Opera with a resolution of 1080p or h
 ## Installation
 Copy the code for the style you want, listed below. Paste it into the CSS box on your Edit Profile page.
 
+# Stylesheet List
+
 ### Space Theme
 `@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/Space-latest.css");`
 
