@@ -10,7 +10,7 @@ It tells the recipent that they have unrestricted rights to use the stylesheet.
 The recommended platform is desktop Chrome/Opera with a resolution of 1080p or higher and scale set to 100%. If you submit a pull request to add your stylesheet to the repository, you are expected to follow this rule, and your style must work nicely with all resolutions between 600p and 4k. Responsive CSS support is not required. 
 
 ## Installation
-Copy the code for the style you want, listed below.
+Copy the code for the style you want, listed below. Paste it into the CSS box on your Edit Profile page.
 
 ### Space Theme
 `@import url("https://raw.githubusercontent.com/fluffapparition/kurs-myspace-themes/main/styles/Space-latest.css");`
