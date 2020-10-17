@@ -1,0 +1,113 @@
+/*This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    */
+
+body{
+	background:url("https://files.gamebanana.com/bitpit/20150702-sous-vide-hamburger-anova-.jpg");
+	background-size:400px;
+	background-position:center;
+	background-repeat:repeat;
+	background-attachment:fixed;
+	}
+
+div{
+	/*color:yellow;*/
+	/*box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	background:url("https://files.gamebanana.com/bitpit/bamboo_patterns_1.jpg");*/
+	}
+	
+#container{
+	width:100%;
+	}
+a{
+	color:orange;
+	}
+	
+.box {
+	border-radius:10px;
+	background:yellow;
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:black;
+	}
+
+.blurbs {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+
+.fwiends {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+
+.comments {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+	
+h4{color:white;}
+
+.boxHead {
+	background-color:red;
+	color:yellow;
+	}
+	
+.topLeft {
+	border-radius:30px 0px 0px 30px;
+	box-shadow:0px 0px 10px 1px yellow;
+	/*border:3px solid yellow;*/
+	background:red;
+	color:yellow;
+}
+
+.topRight {
+	border-radius:0px 30px 30px 30px;
+	box-shadow:0px 0px 10px 1px yellow;
+	/*border:3px solid yellow;*/
+	background:red;
+	color:black;
+}
+
+.tableLeft {
+	background:brown;
+	color:yellow;
+	}
+
+.tableRight {
+	background:black;
+	color:white;
+	}
+/* Smartphone Portrait and Landscape */ @media only screen and (min-device-width : 50px) and (max-device-width : 800px){ .topLeft {position:static;border-radius:30px 30px 0px 0px;} .topRight{border-radius:0px 0px 30px 30px;} body{background-size:auto;} }
+
+
+#sMsg::after {content:"Buy a McCum sandwich";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
+#sMsg {font-size:0px;}
+#add::after {content:"Bend over";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);} 
+#add {font-size:0px;} 
+#block::after {content:"Run Away From His Huge COCK";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
+#block {font-size:0px;}
+#report::after{content:"Tell Mommy He Touched You";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);} 
+#report{font-size:0px;} 
+
+#online{content:url("https://files.gamebanana.com/bitpit/online_1_.gif");background:yellow;}

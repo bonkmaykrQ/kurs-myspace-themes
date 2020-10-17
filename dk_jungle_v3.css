@@ -1,0 +1,101 @@
+/*This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    */
+
+body{
+	background:url("https://files.gamebanana.com/bitpit/dk_logo_-_red_border.png"), url("https://files.gamebanana.com/bitpit/istockphoto-1138180941-640x640.jpg");
+	background-size:auto, cover;
+	background-position:right bottom, center;
+	background-repeat:no-repeat, no-repeat;
+	background-attachment:fixed, fixed;
+	}
+
+div{
+	/*color:yellow;*/
+	/*box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	background:url("https://files.gamebanana.com/bitpit/bamboo_patterns_1.jpg");*/
+	}
+	
+#container{
+	width:100%;
+	}
+a{
+	color:orange;
+	}
+	
+.box {
+	border-radius:10px;
+	background:yellow;
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:black;
+	}
+
+.blurbs {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+
+.fwiends {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+
+.comments {
+	border-radius:10px;
+	background:url("https://screenshots.gamebanana.com/img/ss/posts/100-90_5f612d3595b75.jpg");
+	box-shadow:0px 0px 10px 5px yellow;
+	border:3px solid yellow;
+	color:white;
+	}
+	
+h4{color:white;}
+
+.boxHead {
+	background-color:green;
+	color:yellow;
+	}
+	
+.topLeft {
+	border-radius:30px 0px 0px 30px;
+	box-shadow:0px 0px 10px 1px yellow;
+	/*border:3px solid yellow;*/
+	background:green;
+	color:yellow;
+}
+
+.topRight {
+	border-radius:0px 30px 30px 30px;
+	box-shadow:0px 0px 10px 1px yellow;
+	/*border:3px solid yellow;*/
+	background:green;
+	color:black;
+}
+
+.tableLeft {
+	background:brown;
+	color:yellow;
+	}
+
+.tableRight {
+	background:black;
+	color:white;
+	}
+/* Smartphone Portrait and Landscape */ @media only screen and (min-device-width : 50px) and (max-device-width : 800px){ .topLeft {position:static;border-radius:30px 30px 0px 0px;} .topRight{border-radius:0px 0px 30px 30px;} }/* Smartphone Portrait and Landscape */ @media only screen and (min-device-width : 50px) and (max-device-width : 800px){ .topLeft {position:static;border-radius:30px 30px 0px 0px;} .topRight{border-radius:0px 0px 30px 30px;} }
