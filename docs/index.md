@@ -32,7 +32,7 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
   
 ![](https://cdn.discordapp.com/attachments/766853247918014544/767171964745678848/unknown.png)
 
-### McDonalds Theme
+### McDonalds Theme ***(NSFW)***
 `@import url("https://fluffapparition.github.io/kurs-myspace-themes/mcdonalds-latest.css");`
   
 ![](https://files.gamebanana.com/bitpit/screenshot_20200918-082059_chrome.jpg)
