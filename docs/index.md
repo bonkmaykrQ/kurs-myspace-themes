@@ -13,7 +13,7 @@ The recommended platform is desktop Chrome/Opera with a resolution of 1080p or h
 ## Installation
 Copy the line of code for the style you want, listed below. Paste it into the CSS box on your Edit Profile page.
 
-**You do not need to do anything to install a new update. Your profile CSS will be always be automatically synchronized with the latest version available from the Github repo.**
+**You do not need to do anything to install a new update. Your profile CSS will be automatically synchronized with the latest version available from the Github repo.**
 
 # Stylesheet List
 
