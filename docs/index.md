@@ -11,7 +11,9 @@ It tells the recipent that they have unrestricted rights to use the stylesheet.
 The recommended platform is desktop Chrome/Opera with a resolution of 1080p or higher and scale set to 100%. If you submit a pull request to add your stylesheet to the repository, you are expected to follow this rule, and your style must work nicely with all resolutions between 600p and 4k. Responsive CSS support is not required. 
 
 ## Installation
-Copy the code for the style you want, listed below. Paste it into the CSS box on your Edit Profile page.
+Copy the line of code for the style you want, listed below. Paste it into the CSS box on your Edit Profile page.
+
+**You do not need to do anything to install a new update. Your profile CSS will be always be automatically synchronized with the latest version available from the Github repo. **
 
 # Stylesheet List
 
