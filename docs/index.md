@@ -6,6 +6,8 @@ Do not remove the warning at the beginning of each CSS file. I'm talking about t
 
 It tells the recipent that they have unrestricted rights to use the stylesheet.
 
+[Learn more](https://github.com/fluffapparition/kurs-myspace-themes/blob/main/LICENSE) 
+
 ## Compatibility
 
 The recommended platform is desktop Chrome/Opera with a resolution of 1080p or higher and scale set to 100%. If you submit a pull request to add your stylesheet to the repository, you are expected to follow this rule, and your style must work nicely with all resolutions between 600p and 4k. Responsive CSS support is not required. 
