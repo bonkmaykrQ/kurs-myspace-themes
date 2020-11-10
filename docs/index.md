@@ -1,12 +1,12 @@
 # MySpace Stylesheets
-#### [← Back to Homepage](https://fluffapparition.github.io/)
+#### [← Back to Homepage](https://bonkmaykrq.github.io/)
 
 ## Copyleft Rules
 Do not remove the warning at the beginning of each CSS file. I'm talking about the one that says "This program is free software".
 
 It tells the recipent that they have unrestricted rights to use the stylesheet.
 
-[Learn more](https://github.com/fluffapparition/kurs-myspace-themes/blob/main/LICENSE) 
+[Learn more](https://github.com/bonkmaykrq/kurs-myspace-themes/blob/main/LICENSE) 
 
 ## Compatibility
 
@@ -20,21 +20,21 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
 # Stylesheet List
 
 ### Space Theme
-`@import url("https://fluffapparition.github.io/kurs-myspace-themes/Space-latest.css");`
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/Space-latest.css");`
   
 ![](https://cdn.discordapp.com/attachments/766853247918014544/767172440333090816/unknown.png)
 
 ### Donkey Kong Jungle Theme
-`@import url("https://fluffapparition.github.io/kurs-myspace-themes/dk_jungle-latest.css");`
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/dk_jungle-latest.css");`
   
 ![](https://files.gamebanana.com/bitpit/screenshot_20200916_175133.png)
 
 ### Mac OS X Theme
-`@import url("https://fluffapparition.github.io/kurs-myspace-themes/osx-latest.css");`
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/osx-latest.css");`
   
 ![](https://cdn.discordapp.com/attachments/766853247918014544/767171964745678848/unknown.png)
 
 ### McDonalds Theme ***(NSFW)***
-`@import url("https://fluffapparition.github.io/kurs-myspace-themes/mcdonalds-latest.css");`
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/mcdonalds-latest.css");`
   
 ![](https://files.gamebanana.com/bitpit/screenshot_20200918-082059_chrome.jpg)
