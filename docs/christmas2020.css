@@ -79,7 +79,8 @@ body {
     font-family: cum;
     padding-top: 45px;
     font-size: 15px;
-    background-image: url(https://files.gamebanana.com/bitpit/giphy_2_.gif), url(https://files.gamebanana.com/bitpit/2020-red-christmas-ornament-animati.gif), url(https://files.gamebanana.com/bitpit/b906d71….gif), url(https://files.gamebanana.com/bitpit/3577473acie1d4pnh.gif);
+    background-image: url(https://files.gamebanana.com/bitpit/giphy_2_.gif), url(https://files.gamebanana.com/bitpit/2020-red-christmas-ornament-animati.gif), 
+	    url(https://files.gamebanana.com/bitpit/b906d71f4b78410c3b11767fafd97a1d.gif), url(https://files.gamebanana.com/bitpit/3577473acie1d4pnh.gif);
     background-position: 0px 0px, 0px -20px, 98.3% 96.4%, 0px 0px;
     background-size: 30%, 120px, 20%, 300px; /*background-size: 20%, 5%, 20%, 20%;*/
     background-repeat: repeat-x,repeat-x,no-repeat,repeat;
@@ -330,7 +331,7 @@ p { font-size: 20px;
 }
 @font-face{
     font-family:dongs; 
-    src:url("https://files.gamebanana.com/bitpit/space_age.ttf");}
+    src:url("https://files.gamebanana.com/bitpit/christmas_bell_-_personal_use.otf");}
 h1, h2, h3, h4, h5{
     font-family:dongs;
     /*text-decoration:none;*/
