@@ -16,6 +16,8 @@
     cursor: url(https://files.gamebanana.com/bitpit/red_neon_normalselect_444a7.cur), auto;
 }
 
+.topLeft.blogCard{margin-top:10px !important;}
+
 div{background-opacity:0.92;} /*css 3 doesn't support this*/
 
 a, button {
