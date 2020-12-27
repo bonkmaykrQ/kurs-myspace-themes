@@ -111,7 +111,7 @@ body {
     margin-bottom: 20px;
     margin-top: 15px;
     background: #942d1f;
-    border: 1px solid #9704bf;                        }
+    border: 1px solid #65d406;                        }
 
 .extended a{ color: #9be65a;
 
@@ -132,7 +132,7 @@ body {
     font-family: Arial;
     font-size: 15px;
     background: #942d1f !important;
-    color: #9704bf !important;
+    color: #65d406 !important;
     position: absolute !important;
     width: 98% ;
     height: 70px !important;
@@ -166,7 +166,7 @@ body {
     left: 0;
     top: 54px !important;
     width: calc(100% - 15px );
-        color: #9704bf !important;
+        color: #65d406 !important;
     height: 15px;
     z-index: 300;
 }
@@ -181,7 +181,7 @@ body {
 
 .rightHead {
     background: #942d1f;
-    color: #9704bf;
+    color: #65d406;
     padding-left: 4px;
     font-size: 30px;
 }
@@ -189,8 +189,8 @@ body {
 .blurbs {
     margin-bottom: 20px;
     background: #942d1f;
-    color: #9704bf; 
-border: 1px solid #9704bf;
+    color: #65d406; 
+border: 1px solid #65d406;
 
 }
 h4 {
@@ -229,7 +229,7 @@ a:hover { color: white;
 
 
 .boxHead {
-    background: #9704bf;
+    background: #65d406;
     color: white;
     padding: 3px;
     padding-bottom: 4px;
@@ -246,7 +246,7 @@ p { font-size: 20px;
 .fwiendCounter { font-size: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
-    color: #9704bf;
+    color: #65d406;
     background: #942d1f;
 }
 
@@ -266,7 +266,7 @@ p { font-size: 20px;
     margin-top: 10px;
     height: 100px;
     background: grey;
-    border: 1px solid #9704bf;
+    border: 1px solid #65d406;
 	border-radius: 7px;
     color: #9be65a;
 }
@@ -285,19 +285,19 @@ p { font-size: 20px;
     padding: 10px;
     vertical-align: top;
     overflow-wrap: anywhere;
-    color: #9704bf;
+    color: #65d406;
 }
 .player {
     padding: 4px;
     margin-top: 20px;
     margin-bottom: 20px;
     background: #942d1f;
-    color: #9704bf;
+    color: #65d406;
     width: calc(100% - 10px );
-    border: 1px solid #9704bf;
+    border: 1px solid #65d406;
 }
 #hSub a {
-    color: #9704bf;
+    color: #65d406;
     text-decoration: none;
     font-family: courier;
     font-size: 20px;
