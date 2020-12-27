@@ -96,9 +96,10 @@ body {
     float: left;
     width: none;
     padding: 10px;
-    background-color: rgba(148, 45, 31, 1.0);
+    background-color: rgba(148, 45, 31, 0.8);
+	backdrop-filter: blur(2px);
     color: #9be65a;
-    border: 1px solid #9be65a;
+    border: 0px solid #9be65a;
     border-radius: 0px;
     margin-top: 25px;
     opacity: 1.0; /*0.9;*/
