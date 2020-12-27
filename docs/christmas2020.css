@@ -21,7 +21,7 @@ div{background-opacity:0.92;} /*css 3 doesn't support this*/
     background:#942d1f;
     padding-right:22px;
     padding-left:22px;
-    border:5px purple solid;
+    border:5px #9be65a solid;
     border-radius:20px;
 } 
 
@@ -56,13 +56,13 @@ div{background-opacity:0.92;} /*css 3 doesn't support this*/
 }
 
 @keyframes blink{
-    0%{background:purple;color:pink;}
-    /*50%{background:pink;color:purple;}*/
-    100%{background:purple;color:pink;}
+    0%{background:#9be65a;color:pink;}
+    /*50%{background:pink;color:#9be65a;}*/
+    100%{background:#9be65a;color:pink;}
 } 
 
 button{
- background:purple;
+ background:#9be65a;
  color:white;
  border-radius:15px;
  border:none;
