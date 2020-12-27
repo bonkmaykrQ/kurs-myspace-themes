@@ -14,32 +14,12 @@ content:url("https://files.gamebanana.com/bitpit/acfa68bd01f226997ceaebf512dd55c
 /*Space Age: https://files.gamebanana.com/bitpit/615cd467dff91f8ba858967064b133b6.png*/
 }
 
-/*#container{
-    width:100%;
-    overflow:hidden hidden;
-    animation:widenin 1s linear;
-}
-@keyframes widenin {
-0%{width:0px;}
-100%{width:100%;}
-
-}*/
-
 #sMsg::after {content:"Annoy";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
 #sMsg {font-size:0px;}
-/*#add::after {content:"Kiss";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);} 
-#add {font-size:0px;}*/ 
 #block::after {content:"Be a Pussy";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
 #block {font-size:0px;}
 #report::after{content:"Snitch";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);} 
 #report{font-size:0px;} 
-
-/*#gender::after{content:"Stupid Fucking Bitch";font-size:15px;} 
-#gender{font-size:0px;} 
-#country::after{content:"United Sucks";font-size:15px;} 
-#country{font-size:0px;} /*Custom UserInfo*/
-
-#online{content:url("https://files.gamebanana.com/bitpit/online_1_.gif");}
 
 #avatar.avatar{margin-top:10px;padding-top:5px;padding-bottom:5px;
 background: -moz-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
@@ -60,40 +40,4 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endCo
 margin-top:14px; /*fixes overlapping on header in blog page*/
 }}
 
-/*@keyframes flicker{
-0%{background: -moz-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-background: -webkit-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endColorstr="#020024",GradientType=1);}
-10%{background: -moz-radial-gradient(circle, rgba(255,201,0,1) 0%, rgba(249,255,0,0.577468487394958) 33%, rgba(2,0,36,0) 60%);
-background: -webkit-radial-gradient(circle, rgba(255,201,0,1) 0%, rgba(249,255,0,0.577468487394958) 33%, rgba(2,0,36,0) 60%);
-background: radial-gradient(circle, rgba(255,201,0,1) 0%, rgba(249,255,0,0.577468487394958) 33%, rgba(2,0,36,0) 60%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffc900",endColorstr="#020024",GradientType=1);}
-30%{background: -moz-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,115,0,0.577468487394958) 13%, rgba(2,0,36,0) 36%);
-background: -webkit-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,115,0,0.577468487394958) 13%, rgba(2,0,36,0) 36%);
-background: radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,115,0,0.577468487394958) 13%, rgba(2,0,36,0) 36%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff9a00",endColorstr="#020024",GradientType=1);}
-50%{background: -moz-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 5%, rgba(2,0,36,0) 8%);
-background: -webkit-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 5%, rgba(2,0,36,0) 8%);
-background: radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 5%, rgba(2,0,36,0) 8%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff9a00",endColorstr="#020024",GradientType=1);}
-60%{background: -moz-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 30%, rgba(2,0,36,0) 35%);
-background: -webkit-radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 30%, rgba(2,0,36,0) 35%);
-background: radial-gradient(circle, rgba(255,154,0,1) 0%, rgba(255,0,86,0.577468487394958) 30%, rgba(2,0,36,0) 35%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff9a00",endColorstr="#020024",GradientType=1);}
-70%{background: -moz-radial-gradient(circle, rgba(255,222,0,1) 6%, rgba(255,0,0,0.577468487394958) 26%, rgba(2,0,36,0) 40%);
-background: -webkit-radial-gradient(circle, rgba(255,222,0,1) 6%, rgba(255,0,0,0.577468487394958) 26%, rgba(2,0,36,0) 40%);
-background: radial-gradient(circle, rgba(255,222,0,1) 6%, rgba(255,0,0,0.577468487394958) 26%, rgba(2,0,36,0) 40%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffde00",endColorstr="#020024",GradientType=1);}
-80%{background: -moz-radial-gradient(circle, rgba(255,222,0,1) 19%, rgba(255,128,0,0.577468487394958) 36%, rgba(2,0,36,0) 44%);
-background: -webkit-radial-gradient(circle, rgba(255,222,0,1) 19%, rgba(255,128,0,0.577468487394958) 36%, rgba(2,0,36,0) 44%);
-background: radial-gradient(circle, rgba(255,222,0,1) 19%, rgba(255,128,0,0.577468487394958) 36%, rgba(2,0,36,0) 44%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffde00",endColorstr="#020024",GradientType=1);}
-100%{background: -moz-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-background: -webkit-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endColorstr="#020024",GradientType=1);}
-}*/
-
-/*audio{display:none;}*/
 .songName:hover{font-size:0px;}.songName:hover:after{content:"Go ahead, pause it, you fucking pussy!";font-size:13px;}
