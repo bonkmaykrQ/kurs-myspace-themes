@@ -380,6 +380,6 @@ b.boxHead{font-family:quake;font-size:24px;}
   }/*end smartphone compat section*/
  
  
-*::-moz-selection { color: green; background-color:red; }
-*::selection { color: green; background-color:red; }
+*::-moz-selection { color: lime; background-color:red; }
+*::selection { color: lime; background-color:red; }
  
