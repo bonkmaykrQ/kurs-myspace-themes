@@ -80,8 +80,8 @@ body {
     padding-top: 45px;
     font-size: 15px;
     background-image: url(https://files.gamebanana.com/bitpit/giphy_2_.gif), url(https://files.gamebanana.com/bitpit/2020-red-christmas-ornament-animati.gif), url(https://files.gamebanana.com/bitpit/b906d71….gif), url(https://files.gamebanana.com/bitpit/3577473acie1d4pnh.gif);
-    background-position: 0px 0px, 0px -20px, 0px 0px, 0px 0px;
-    background-size: 20%, 5%, 20%, 20%;
+    background-position: 0px 0px, 0px -20px, 98.3% 96.4%, 0px 0px;
+    background-size: 30%, 120px, 20%, 300px; /*background-size: 20%, 5%, 20%, 20%;*/
     background-repeat: repeat-x,repeat-x,no-repeat,repeat;
     background-attachment: fixed, fixed, fixed, scroll;
     /* animation: stars 372s linear infinite; */
@@ -151,7 +151,7 @@ body {
     overflow: hidden;
     z-index: 300;
 	
-	backdrop-filter: blur(2px);
+	backdrop-filter: blur(7px);
 }
 
 
@@ -175,6 +175,8 @@ body {
         color: #65d406 !important;
     height: 15px;
     z-index: 300;
+	
+	backdrop-filter: blur(7px);
 }
 
 
@@ -365,7 +367,7 @@ b.boxHead{font-family:quake;font-size:24px;}
   @media only screen
     and (min-device-width : 50px)
     and (max-device-width : 800px){
-     .topLeft {position:static;background-color: rgba(0, 0, 0, 0.6);} .blogCard{width: -webkit-fill-available;}
+     .topLeft {position:static;} .blogCard{width: -webkit-fill-available;}
 }
 #footer{
     border: 1px solid #9be65a;
