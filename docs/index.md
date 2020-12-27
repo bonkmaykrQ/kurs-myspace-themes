@@ -24,6 +24,11 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
   
 ![](https://cdn.discordapp.com/attachments/766853247918014544/767172440333090816/unknown.png)
 
+### Christmas Theme
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/christmas2020.css");`
+  
+![](https://files.gamebanana.com/bitpit/screenshot_20201227_144132.png)
+
 ### Donkey Kong Jungle Theme
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/dk_jungle-latest.css");`
   
