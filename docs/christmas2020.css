@@ -166,7 +166,7 @@ body {
     left: 0;
     top: 54px !important;
     width: calc(100% - 15px );
-        color: #499c03 /*#65d406*/ !important;
+        color: #65d406 !important;
     height: 15px;
     z-index: 300;
 }
@@ -297,7 +297,7 @@ p { font-size: 20px;
     border: 1px solid #499c03 /*#65d406*/;
 }
 #hSub a {
-    color: #499c03 /*#65d406*/;
+    color: #65d406;
     text-decoration: none;
     font-family: courier;
     font-size: 20px;
