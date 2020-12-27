@@ -19,6 +19,8 @@
 div{background-opacity:0.92;} /*css 3 doesn't support this*/
 }
 
+div.boxInfo.box{border:1px solid #9be65a !important;}
+
 #viewFriends{
     background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     padding-right:22px;
@@ -115,7 +117,7 @@ body {
     text-align: center;
     margin-bottom: 20px;
     margin-top: 15px;
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     border: 1px solid #499c03 /*#65d406*/;                        }
 
 .extended a{ color: #9be65a;
@@ -189,7 +191,7 @@ body {
 
 
 .rightHead {
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     color: #499c03 /*#65d406*/;
     padding-left: 4px;
     font-size: 30px;
@@ -197,7 +199,7 @@ body {
 
 .blurbs {
     margin-bottom: 20px;
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     color: #65d406; 
 border: 1px solid #65d406;
 
@@ -256,7 +258,7 @@ p { font-size: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
     color: #499c03 /*#65d406*/;
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
 }
 
 
@@ -282,7 +284,7 @@ p { font-size: 20px;
 }
 
 .tableLeft {
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     width: 25%;
     padding: 10px;
     vertical-align: top;
@@ -291,7 +293,7 @@ p { font-size: 20px;
 
 .tableRight {
     width: 75%;
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     padding: 10px;
     vertical-align: top;
     overflow-wrap: anywhere;
@@ -301,7 +303,7 @@ p { font-size: 20px;
     padding: 4px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background: #942d1f;
+    background:rgba(148, 45, 31, 0.8);backdrop-filter: blur(2px);
     color: #499c03 /*#65d406*/;
     width: calc(100% - 10px );
     border: 1px solid #499c03 /*#65d406*/;
