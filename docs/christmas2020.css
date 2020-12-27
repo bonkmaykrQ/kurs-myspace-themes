@@ -18,7 +18,7 @@ div{background-opacity:0.92;} /*css 3 doesn't support this*/
 }
 
 #viewFriends{
-    background:#21941f;
+    background:#942d1f;
     padding-right:22px;
     padding-left:22px;
     border:5px purple solid;
@@ -29,7 +29,7 @@ div{background-opacity:0.92;} /*css 3 doesn't support this*/
     color:pink;
     border:5px solid pink;
     border-radius:40px;
-    background:#21941f;
+    background:#942d1f;
    /*position:sticky; /*optional*/
 }
 
@@ -45,12 +45,12 @@ div{background-opacity:0.92;} /*css 3 doesn't support this*/
 
 .songName{
     background:pink;
-    color:#21941f;
+    color:#942d1f;
     animation:blink 2s linear infinite;
 }
 .player.box{
     background:pink;
-    color:#21941f;
+    color:#942d1f;
     border-radius:15px;
     animation:blink 2s linear infinite;
 }
@@ -110,7 +110,7 @@ body {
     text-align: center;
     margin-bottom: 20px;
     margin-top: 15px;
-    background: #21941f;
+    background: #942d1f;
     border: 1px solid #9704bf;                        }
 
 .extended a{ color: pink;
@@ -121,7 +121,7 @@ body {
 
 .blogs, .blog {
     margin-bottom: 20px;
-    background-color: #21941f;
+    background-color: #942d1f;
     color: pink;
 }
 
@@ -131,7 +131,7 @@ body {
     all: unset;
     font-family: Arial;
     font-size: 15px;
-    background: #21941f !important;
+    background: #942d1f !important;
     color: #9704bf !important;
     position: absolute !important;
     width: 98% ;
@@ -141,7 +141,7 @@ body {
     top: 0px;
     opacity: 0.9 !important;
     
-    border-bottom: 1px solid #21941f;
+    border-bottom: 1px solid #942d1f;
     padding-left: 10px;
     padding-top: 6px;
     overflow: hidden;
@@ -154,7 +154,7 @@ body {
     all: unset;
     font-family: Arial;
     font-size: 15px;
-    background: #21941f !important;
+    background: #942d1f !important;
     font-size: small;
     margin: 0px;
     padding: 5px;
@@ -180,7 +180,7 @@ body {
 
 
 .rightHead {
-    background: #21941f;
+    background: #942d1f;
     color: #9704bf;
     padding-left: 4px;
     font-size: 30px;
@@ -188,7 +188,7 @@ body {
 
 .blurbs {
     margin-bottom: 20px;
-    background: #21941f;
+    background: #942d1f;
     color: #9704bf; 
 border: 1px solid #9704bf;
 
@@ -247,7 +247,7 @@ p { font-size: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
     color: #9704bf;
-    background: #21941f;
+    background: #942d1f;
 }
 
 
@@ -255,7 +255,7 @@ p { font-size: 20px;
 #top {
     padding-left: 10px;
     padding-right: 10px;
-    background-color: #21941f;
+    background-color: #942d1f;
 }
 
 
@@ -272,7 +272,7 @@ p { font-size: 20px;
 }
 
 .tableLeft {
-    background: #21941f;
+    background: #942d1f;
     width: 25%;
     padding: 10px;
     vertical-align: top;
@@ -281,7 +281,7 @@ p { font-size: 20px;
 
 .tableRight {
     width: 75%;
-    background: #21941f;
+    background: #942d1f;
     padding: 10px;
     vertical-align: top;
     overflow-wrap: anywhere;
@@ -291,7 +291,7 @@ p { font-size: 20px;
     padding: 4px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background: #21941f;
+    background: #942d1f;
     color: #9704bf;
     width: calc(100% - 10px );
     border: 1px solid #9704bf;
