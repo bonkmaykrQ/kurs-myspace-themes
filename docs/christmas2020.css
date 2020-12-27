@@ -135,7 +135,7 @@ body {
     all: unset;
     font-family: Arial;
     font-size: 15px;
-    background: #942d1f !important;
+    background: rgba(148, 45, 31, 0.8) !important;
     color: #499c03 /*#65d406*/ !important;
     position: absolute !important;
     width: 98% ;
@@ -271,7 +271,8 @@ p { font-size: 20px;
     margin: 0;
     margin-top: 10px;
     height: 100px;
-    background: #942d1f;
+    background: rgba(148, 45, 31, 0.8);
+	backdrop-filter: blur(2px);
     border: 1px solid #499c03 /*#65d406*/;
 	border-radius: 7px;
     color: #9be65a;
