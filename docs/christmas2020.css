@@ -16,6 +16,9 @@
 
 .topLeft.blogCard{margin-top:10px !important;}
 
+div.blogs {background:none;}
+
+
 div{background-opacity:0.92;} /*css 3 doesn't support this*/
 }
 
