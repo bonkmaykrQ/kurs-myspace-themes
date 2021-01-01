@@ -396,7 +396,8 @@ b.boxHead{font-family:quake;font-size:24px;}
  
 #online{content:url("https://files.gamebanana.com/bitpit/christmas_online_hoenibba.gif");}
 
-.extended.box h3 :not(a h3) { /* merry christmas lol */
+.extended.box h3:not(a) { /* merry christmas lol */
     content: url("https://files.gamebanana.com/bitpit/2e4486d18542eda746b26c63498ac011.gif");
     margin:auto;
 }
+.extended.box #text{display:none;}
