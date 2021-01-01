@@ -1,4 +1,7 @@
 # How to rip stylesheets from MySpace profiles
+#### [← Back to Homepage](https://bonkmaykrq.github.io/)
+  
+###
 **Please don't blatantly copy other's stylesheets without their explicit permission or if it comes with a license that allows you to do so.**  
 **I will not be held responsible for your misuse of this information.**  
   
