@@ -18,7 +18,7 @@ If for whatever reason F12 still does not work, press Ctrl + Shift + I, or right
 #### **This should bring up the developer tools. On Chromium/Electron based browsers, it should look like this:**  
 ![](https://files.gamebanana.com/bitpit/image_2021-01-01_000757.png)  
 
-## Step 2 3
+## Step 3
 Click "Console" at the top of the developer tools window.  
 This will open a terminal where you can input Javascript.  
   
