@@ -39,3 +39,5 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endCo
 #name.uName{animation: none;
 margin-top:14px; /*fixes overlapping on header in blog page*/
 }}
+
+#online{content:url("https://files.gamebanana.com/bitpit/online_2_1_.gif")
