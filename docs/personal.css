@@ -39,5 +39,3 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endCo
 #name.uName{animation: none;
 margin-top:14px; /*fixes overlapping on header in blog page*/
 }}
-
-.songName:hover{font-size:0px;}.songName:hover:after{content:"Go ahead, pause it, you fucking pussy!";font-size:13px;}
