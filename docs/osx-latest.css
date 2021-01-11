@@ -143,6 +143,14 @@ position: sticky;
     top: 68px;
 }
 
+.rightHead, .boxHead{
+	text-shadow:1px 1px 0px #000000;
+}
+
+.tableRight div p a {
+	color:#ff59c2;
+}
+
 /* Smartphone Portrait and Landscape */
   @media only screen
     and (min-device-width : 50px)
@@ -153,6 +161,3 @@ position: sticky;
     and (max-device-width : 700px){
      .blogCard{width: -webkit-fill-available;} .topLeft{width: -webkit-fill-available;}
   }/*end smartphone compat section*/
-
-.topRight{z-index:8000;}
-.topLeft{z-index:7999;}
