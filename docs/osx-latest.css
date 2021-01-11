@@ -136,15 +136,16 @@ button:hover, input:hover{
 
 #online{content:url("https://files.gamebanana.com/bitpit/online_1__5d182.gif");}
 
+.topLeft {
+position: sticky;
+    top: 68px;
+}
+
 /* Smartphone Portrait and Landscape */
   @media only screen
     and (min-device-width : 50px)
     and (max-device-width : 800px){
-     .topLeft {position:static;border-radius:30px 30px 0px 0px;} .blogCard{width: -webkit-fill-available;} .topRight{border-radius:0px 00px 30px 30px}
-.topLeft {
-position: sticky;
-    top: 68px;
-}}
+     .topLeft {position:static;border-radius:30px 30px 0px 0px;margin-top:35px;} .blogCard{width: -webkit-fill-available;} .topRight{border-radius:0px 00px 30px 30px}}
 @media only screen
     and (min-device-width : 400px)
     and (max-device-width : 700px){
