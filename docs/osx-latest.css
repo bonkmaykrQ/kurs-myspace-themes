@@ -153,3 +153,6 @@ position: sticky;
     and (max-device-width : 700px){
      .blogCard{width: -webkit-fill-available;} .topLeft{width: -webkit-fill-available;}
   }/*end smartphone compat section*/
+
+.topRight{z-index:8000;}
+.topLeft{z-index:7999;}
