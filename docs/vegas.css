@@ -1,0 +1,114 @@
+/*  This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+	*/
+
+::-moz-selection { /* Code for Firefox */
+  color: cyan;
+  background: teal;
+}
+
+::selection { /* Code for Chromium */
+  color: cyan;
+  background: teal;
+}
+
+body {
+    background:url("https://files.gamebanana.com/bitpit/giphy_8_.gif"), url("https://files.gamebanana.com/bitpit/black_495e7.png"), url("https://files.gamebanana.com/bitpit/ezgif-2-bad90adb6e9d.gif");
+    background-attachment:scroll, scroll, fixed;
+    background-size:9%, 100%, cover;
+}@keyframes slideshow {}
+
+a {
+	color:teal;
+}
+
+.topRight, .topLeft {
+    backdrop-filter:blur(8px);
+    background:rgba(10, 10, 10, 0.5);
+	color:teal;
+}.topRight a, .topLeft a{color:teal !important;}.topRight a:hover, .topLeft a:hover{color:cyan !important;text-shadow:0px 0px 7px teal, 0px 0px 7px teal;}
+
+input[type="submit" i], button {
+	border-radius: 10px;
+    background: black;
+    color: pink;
+    border: 1px solid pink;
+	transition-duration:0.5s;
+}
+
+input[type="submit" i]:hover, button:hover {
+	border-radius: 2px;
+    background: grey;
+    color: pink;
+    border: 1px solid black;
+}
+
+.tableRight {
+	background:url("https://files.gamebanana.com/bitpit/istockphoto-1198290949-170667a.jpg");
+	background-attachment:fixed;
+	color:pink;
+	border-radius:0px 20px 20px 0px;
+}
+
+.tableLeft {
+	background:url("https://files.gamebanana.com/bitpit/2e4753be72e02c0e1775ffc66ddc6679.gif");
+	background-attachment:scroll;
+	color:pink;
+	text-shadow:0px 0px 5px pink, 0px 0px 5px pink;
+	border-radius:20px 0px 0px 20px;
+}.tableLeft a {color:white;}
+
+h1, h2, h3, h4, h5, h6 {
+	color:cyan;
+}
+
+.boxHead, .player.box {
+	background:teal;
+	color:cyan;
+}
+
+.boxInfo.box {
+	background:#004343;
+	border:1px solid teal;
+}
+
+.boxButton {
+	color:yellow;
+	text-shadow:none;
+	transition-duration:0.1s;
+}.boxButton:hover {
+	color:white;
+	text-shadow:1px 1px 1px yellow;
+}
+
+.url.box{border:none;}
+#container > div.topLeft > div.url.box > div:nth-child(1){display:none;}
+#container > div.topLeft > div.url.box > div:nth-child(2) > a{
+	content:url("https://files.gamebanana.com/bitpit/unnamed_2_.gif");
+	width:100%;
+}
+
+#commentInput {
+	background:url("https://files.gamebanana.com/bitpit/76b0353a66d22478769ae777783b0f2c.jpg");
+	background-attachment:scroll;
+	background-size:cover;
+	
+	/*Visitor Input Style*/
+	color:yellow;
+	text-shadow:0px 0px 5px black, 0px 0px 5px black, 0px 0px 5px black;
+}
+
+#hSub, #header {
+	background:rgba(0, 128, 128, 0.7) !important;
+	backdrop-filter:blur(12px) !important;
+}
