@@ -19,6 +19,11 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
 
 # Stylesheet List
 
+### Las Vegas / Night City theme
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/vegas.css");`
+
+![](https://files.gamebanana.com/bitpit/opera_glb7tm7itf.jpg)
+
 ### Space Theme
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/Space-latest.css");`
   
