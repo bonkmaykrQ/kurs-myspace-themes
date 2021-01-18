@@ -139,7 +139,7 @@ button:hover, input:hover{
 #online{content:url("https://files.gamebanana.com/bitpit/online_1__5d182.gif");}
 
 .topLeft {
-position: sticky;
+position: static/*sticky*/;
     top: 68px;
 }
 
