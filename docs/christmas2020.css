@@ -1,11 +1,13 @@
-/*This program is free software: you can redistribute it and/or modify
+/*  This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
+
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
+
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     */
@@ -367,7 +369,7 @@ b.boxHead{font-family:quake;font-size:24px;}
 }
 
 /*.topLeft{position:fixed;width:409.59px;height:605.42px;}*/
-.topLeft{position:sticky;top:5px;}
+.topLeft{position:fixed/*sticky*/;top:5px;}
 
 /* Smartphone Portrait and Landscape */
   @media only screen
