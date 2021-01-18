@@ -115,3 +115,8 @@ h1, h2, h3, h4, h5, h6 {
 	background:rgba(0, 128, 128, 0.7) !important;
 	backdrop-filter:blur(12px) !important;
 }
+
+.rightHead {
+	background:teal;
+	color:cyan;
+}
