@@ -359,7 +359,7 @@ b.boxHead{font-family:quake;font-size:24px;}
 }
 
 /*.topLeft{position:fixed;width:409.59px;height:605.42px;}*/
-.topLeft{position:sticky;top:5px;}
+.topLeft{position:static/*sticky*/;top:5px;}
 
 /* Smartphone Portrait and Landscape */
   @media only screen
