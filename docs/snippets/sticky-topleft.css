@@ -1,0 +1,7 @@
+.topLeft {position:sticky;}
+
+@media only screen
+    and (min-device-width : 50px)
+    and (max-device-width : 800px){
+     .topLeft {position:static;}
+}
