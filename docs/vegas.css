@@ -134,3 +134,5 @@ h1, h2, h3, h4, h5, h6 {
 	color:cyan;
 	text-shadow:0px 0px 5px yellow;
 }
+
+#online img{content:url("https://files.gamebanana.com/bitpit/online_3_.gif");}
