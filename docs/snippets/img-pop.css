@@ -1,3 +1,13 @@
+img{transition-duration:0.3s;}
 img:hover {
   transform:scale(1.1);
+  transition-duration:0.3s;
+  
+  animation:wiggle-a5y125;
+  animation-duration:0.5s;
+}
+
+@keyframes wiggle-a5y125 {
+  0%, 100%{img{transform:scale(1.1)rotate(0.02turn);}}
+  50%{img{transform:scale(1.1) rotate(-0.02turn);}}
 }
