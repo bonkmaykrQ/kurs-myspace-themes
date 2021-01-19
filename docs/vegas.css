@@ -15,13 +15,11 @@
 :root{
     --defaultCursor:        url("https://files.gamebanana.com/bitpit/aero_arrow_yellow_cyan.cur"),default !important;
     --grabCursor:   url("https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur"),grab !important;
-    --grabbingCursor:       url("https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur"),grabbing !important;
-    --helpCursor:   url("https://files.gamebanana.com/bitpit/aero_link_yellow_cyan.cur"),help !important;
-    --pointerCursor:        url("https://files.gamebanana.com/bitpit/aero_link_yellow_cyan.cur"),pointer !important;
-    --moveCursor:   url('https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur') 12 12, move !important;
+    --textCursor:   url("https://files.gamebanana.com/bitpit/aero_beam_yellow_cyan.cur"),text !important;
 }
 
 *{cursor:var(--defaultCursor);}
+p, #text, #commentInput{cursor:var(--textCursor);}
 a, button{cursor:var(--pointerCursor);}
 
 ::-moz-selection { /* Code for Firefox */
