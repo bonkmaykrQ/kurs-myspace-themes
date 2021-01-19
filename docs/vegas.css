@@ -14,13 +14,13 @@
 
 :root{
     --defaultCursor:        url("https://files.gamebanana.com/bitpit/aero_arrow_yellow_cyan.cur"),default !important;
-    --grabCursor:   url("https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur"),grab !important;
     --textCursor:   url("https://files.gamebanana.com/bitpit/aero_beam_yellow_cyan.cur"),text !important;
+    --grabCursor:   url("https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur"),grab !important;
 }
 
 *{cursor:var(--defaultCursor);}
 p, #text, #commentInput, h1, h2, h3, h4, h5, h6, h7 {cursor:var(--textCursor);}
-a, button{cursor:var(--pointerCursor);}
+a, button, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h7 a {cursor:var(--pointerCursor) !important;}
 
 ::-moz-selection { /* Code for Firefox */
   color: cyan;
