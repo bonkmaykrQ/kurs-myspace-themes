@@ -156,31 +156,3 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 audio::-webkit-media-controls-panel {background:#004343;color:cyan;border-radius:0px;border:1px solid teal;}
-
-audio::-webkit-media-controls-mute-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-play-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-timeline-container {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-current-time-display {color:cyan;}
-
-audio::-webkit-media-controls-time-remaining-display {color:cyan;}
-
-audio::-webkit-media-controls-timeline {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-volume-slider-container {color:teal;}
-
-audio::-webkit-media-controls-volume-slider {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-seek-back-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-seek-forward-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-fullscreen-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-rewind-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-return-to-realtime-button {color:cyan;background:cyan;}
-
-audio::-webkit-media-controls-toggle-closed-captions-button {color:cyan;background:cyan;}
