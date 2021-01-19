@@ -19,8 +19,8 @@
 }
 
 *{cursor:var(--defaultCursor);}
-p, #text, #commentInput, h1, h2, h3, h4, h5, h6, h7 {cursor:var(--textCursor);}
-a, button, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h7 a {cursor:var(--pointerCursor) !important;}
+p, #text, #commentInput, h1 #text, h2 #text, h3 #text, h4 #text, h5 #text, h6 #text, h7 #text, li, b {cursor:var(--textCursor);}
+a, button, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h7 a, fwiendFace b {cursor:var(--pointerCursor) !important;}
 
 ::-moz-selection { /* Code for Firefox */
   color: cyan;
