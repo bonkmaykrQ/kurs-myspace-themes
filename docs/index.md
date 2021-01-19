@@ -17,6 +17,11 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
 
 **You do not need to do anything to install a new update. Your profile CSS will be automatically synchronized with the latest version available from the Github repo.**
 
+# Snippet List
+
+### Miniprofile Always On Screen (desktop only)
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/sticky-topleft.css");`
+
 # Stylesheet List
 
 ### Las Vegas / Night City theme
