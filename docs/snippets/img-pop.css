@@ -3,7 +3,7 @@ img:hover {
   transform:scale(1.1);
   transition-duration:0.3s;
   
-  animation:wiggle-a5y125 0.2s linear 0.3s infinite;
+  animation:wiggle-a5y125 0.2s linear 0.17s infinite;
 }
 
 @keyframes wiggle-a5y125 {
