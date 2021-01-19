@@ -135,8 +135,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .rightHead {
-	background:teal;
-	color:cyan;
+	/*background:teal;
+	color:cyan;*/
+	
+	background: #004343;
+    border: 1px solid teal;
+    color: cyan;
 }
 
 .box.blog {
@@ -168,4 +172,4 @@ audio::-webkit-media-controls-panel{background:teal;}
 
 @media only screen 
 	and (min-device-width : 768px)
-{.boxHead{background:#004343;}}
+{.boxHead{background:teal;}}
