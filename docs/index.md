@@ -23,6 +23,9 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/sticky-topleft.css");`  
 To use this, your .topLeft must have a top value. I recommend 52.5px
 
+### Avatars Pop-out Jiggle on Hover
+`@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/img-pop.css");`  
+
 # Stylesheet List
 
 ### Las Vegas / Night City theme
