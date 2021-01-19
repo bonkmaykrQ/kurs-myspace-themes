@@ -83,13 +83,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .boxHead {
-	/*background:teal;
-	color:cyan;*/
+	background:teal;
+	color:cyan;
 	
-	background:#004343;
+	/*background:#004343;
 	border-bottom:1px solid teal;
 	color:cyan;
-	background:teal;
+	background:teal;*/
 }
 
 .player.box {
