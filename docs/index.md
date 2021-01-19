@@ -27,7 +27,7 @@ To use this, your .topLeft must have a top value. I recommend 52.5px
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/img-pop.css");`  
 
 # Stylesheet List
-### Put these at the top of the list above all Snippets
+# Put these at the top of the list above all Snippets
 
 ### Las Vegas / Night City theme
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/vegas.css");`
