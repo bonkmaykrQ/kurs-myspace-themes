@@ -19,8 +19,9 @@ Copy the line of code for the style you want, listed below. Paste it into the CS
 
 # Snippet List
 
-### Miniprofile Always On Screen (desktop only)
+### Miniprofile Always On Screen (desktop only, requires support from sheet developer)
 `@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/sticky-topleft.css");`
+To use this, your .topLeft must have a top value. I recommend 52.5px
 
 # Stylesheet List
 
