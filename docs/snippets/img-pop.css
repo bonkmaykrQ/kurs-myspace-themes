@@ -11,4 +11,4 @@ img:hover {
   50%{transform:scale(1.1) rotate(-0.006turn);}
 }
 
-.box.blurbs img:hover, .shortRight img:hover, .tableRight img:hover, #imgPreview img:hover {transform:none;animation:none;}
+.box.blurbs img:hover, .shortRight img:hover, .tableRight img:hover, #imgPreview img:hover, .blogCorpus img:hover {transform:none;animation:none;}
