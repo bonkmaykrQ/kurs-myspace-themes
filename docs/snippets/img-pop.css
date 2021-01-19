@@ -10,3 +10,5 @@ img:hover {
   0%, 100%{transform:scale(1.1)rotate(0.02turn);}
   50%{transform:scale(1.1) rotate(-0.02turn);}
 }
+
+.box.blurbs img:hover {transform:none;animation:none;}
