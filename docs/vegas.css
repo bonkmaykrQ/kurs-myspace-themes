@@ -19,7 +19,7 @@
 }
 
 *{cursor:var(--defaultCursor);}
-p, #text, #commentInput{cursor:var(--textCursor);}
+p, #text, #commentInput, h1, h2, h3, h4, h5, h6, h7 {cursor:var(--textCursor);}
 a, button{cursor:var(--pointerCursor);}
 
 ::-moz-selection { /* Code for Firefox */
