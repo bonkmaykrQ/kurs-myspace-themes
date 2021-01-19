@@ -19,8 +19,8 @@
 }
 
 html{cursor:var(--defaultCursor);}
-p, li, text, #commentInput {cursor:var(--textCursor);}
-a, button, #top a .fwiendFace b, #top a .fwiendFace img, a * {cursor:var(--pointerCursor) !important;}
+a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar {cursor:var(--pointerCursor) !important;}
+p, li, text, #commentInput, h1, h2, h3, h4, h5, h6, h7, b, i {cursor:var(--textCursor);}
 
 ::-moz-selection { /* Code for Firefox */
   color: cyan;
