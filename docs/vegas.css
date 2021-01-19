@@ -82,6 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 	background:#004343;
 	border-bottom:1px solid teal;
 	color:cyan;
+	background:teal;
 }
 
 .player.box {
@@ -160,3 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*audio::-webkit-media-controls-panel {background:#004343;color:cyan;border-radius:0px;border:0px solid teal;}*/
 audio::-webkit-media-controls-panel{background:teal;}
+
+@media only screen 
+	and (min-device-width : 768px)
+{.boxHead{background:#004343;}}
