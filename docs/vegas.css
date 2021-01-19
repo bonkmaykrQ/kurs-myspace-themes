@@ -89,10 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 	background:#004343;
 	border:1px solid teal;
 	color:cyan;
-	
-	padding-left:0px;
-	padding-right:0px;
-}.songName{padding-left:0px;padding-right:0px;border-bottom:1px solid teal;}
+}/*.songName{padding-left:0px;padding-right:0px;border-bottom:1px solid teal;}*/
 
 .boxInfo.box {
 	background:#004343;
