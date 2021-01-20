@@ -11,10 +11,17 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     */
+@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/dependencies/custom-cursors.css");
 
- * {
-    cursor: url(https://files.gamebanana.com/bitpit/red_neon_normalselect_444a7.cur), auto;
+:root{
+    --defaultCursor:        url("https://files.gamebanana.com/bitpit/red_neon_normalselect_444a7.cur"),default !important;
+    --textCursor:   url("https://files.gamebanana.com/bitpit/aero_beam_yellow_cyan.cur"),text !important;
+    --pointerCursor:   url(),default !important;
 }
+
+ /** {
+    cursor: url(https://files.gamebanana.com/bitpit/red_neon_normalselect_444a7.cur), auto;
+}*/
 
 .topLeft.blogCard{margin-top:10px !important;}
 
