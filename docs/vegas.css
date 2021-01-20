@@ -15,12 +15,12 @@
 :root{
     --defaultCursor:        url("https://files.gamebanana.com/bitpit/aero_arrow_yellow_cyan.cur"),default !important;
     --textCursor:   url("https://files.gamebanana.com/bitpit/aero_beam_yellow_cyan.cur"),text !important;
-    --grabCursor:   url("https://files.gamebanana.com/bitpit/aero_move_yellow_cyan.cur"),grab !important;
+    --pointerCursor:   url("https://files.gamebanana.com/bitpit/aero_link_yellow_cyan.cur"),link !important;
 }
 
 html{cursor:var(--defaultCursor);}
-a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar {cursor:var(--pointerCursor) !important;}
 p, li, text, #commentInput, h1, h2, h3, h4, h5, h6, h7, b, i {cursor:var(--textCursor);}
+a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar {cursor:var(--pointerCursor) !important;}
 
 ::-moz-selection { /* Code for Firefox */
   color: cyan;
