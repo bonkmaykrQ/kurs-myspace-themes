@@ -1,0 +1,5 @@
+html{cursor:var(--defaultCursor);}
+p, li, text, #commentInput, h1, h2, h3, h4, h5, h6, h7, b, i, .shortRight div, .box.blurbs .blogs div {cursor:var(--textCursor);}
+a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar, #header > a > b > span, #container > div.topRight > div.extended.box > a > h3,
+.tableLeft a div, a div.blogCorpus h1, .tableLeft a div, .tableLeft a div b {cursor:var(--pointerCursor) !important;}
+p div img, #online, #online img {cursor:var(--defaultCursor);}
