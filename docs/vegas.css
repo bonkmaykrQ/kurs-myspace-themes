@@ -20,7 +20,8 @@
 
 html{cursor:var(--defaultCursor);}
 p, li, text, #commentInput, h1, h2, h3, h4, h5, h6, h7, b, i {cursor:var(--textCursor);}
-a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar, #header > a > b > span {cursor:var(--pointerCursor) !important;}
+a, button, #top a .fwiendFace b, #top a .fwiendFace img, #avatar.avatar, #header > a > b > span, #container > div.topRight > div.extended.box > a > h3,
+.tableLeft a div, a div.blogCorpus h1{cursor:var(--pointerCursor) !important;}
 
 p div img{cursor:var(--defaultCursor);}
 
@@ -69,7 +70,7 @@ input[type="submit" i]:hover, button:hover {
 	background:url("https://files.gamebanana.com/bitpit/istockphoto-1198290949-170667a.jpg");
 	background-attachment:fixed;
 	color:pink;
-	border-radius:0px 20px 20px 0px;
+	/*border-radius:0px 20px 20px 0px;*/
 }
 
 .tableLeft {
@@ -77,8 +78,10 @@ input[type="submit" i]:hover, button:hover {
 	background-attachment:scroll;
 	color:pink;
 	text-shadow:0px 0px 5px pink, 0px 0px 5px pink;
-	border-radius:20px 0px 0px 20px;
+	/*border-radius:20px 0px 0px 20px;*/
 }.tableLeft a {color:white !important;}
+
+#userWall {border-radius:20px 20px 20px 20px;}
 
 h1, h2, h3, h4, h5, h6 {
 	color:cyan;
@@ -120,6 +123,8 @@ h1, h2, h3, h4, h5, h6 {
 	content:url("https://files.gamebanana.com/bitpit/unnamed_2_.gif");
 	width:100%;
 }
+
+span.fwiendCount {color:cyan;}
 
 #commentInput {
 	background:url("https://files.gamebanana.com/bitpit/76b0353a66d22478769ae777783b0f2c.jpg");
