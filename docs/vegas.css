@@ -168,8 +168,6 @@ span.fwiendCount {color:cyan;}
 	text-shadow:0px 0px 5px yellow;
 }
 
-#online{content:url("https://files.gamebanana.com/bitpit/online_3_.gif");}
-
 .topLeft {top:52.5px;}
 
 .extended.box {
@@ -187,4 +185,22 @@ audio::-webkit-media-controls-panel{background:teal;}
 
 #name.uName, .extended.box h3 {
 	font-family:cyberpunk;
+	color:#ffff00;
+	text-shadow:3px 2px 0px #919100; /*#d4cd00*/
+	font-size: 28px;
+}#name.uName {
+	margin-bottom:14px;
+	font-size:56px;
+	justify-content: center;
+    	display: flex;
+}
+
+td.shortRight div {color:#ffff00;text-shadow:1px 1px 0px #919100;}
+#online{content:url("https://files.gamebanana.com/bitpit/online_3__1_.gif");}
+
+@media only screen
+    and (min-device-width : 50px)
+    and (max-device-width : 768px) {
+	td.shortRight div {color:#008080;text-shadow:none;}
+	#online{content:url("https://files.gamebanana.com/bitpit/online_3_.gif");}
 }
