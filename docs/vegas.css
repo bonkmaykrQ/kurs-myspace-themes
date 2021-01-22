@@ -18,6 +18,10 @@
     --textCursor:   url("https://files.gamebanana.com/bitpit/aero_beam_yellow_cyan.cur"),text !important;
     --pointerCursor:   url("https://files.gamebanana.com/bitpit/aero_link_yellow_cyan.cur"),default !important;
 }
+@font-face {
+	font-family:cyberpunk;
+	src:url("https://files.gamebanana.com/bitpit/cyberpunk.otf");
+}
 
 /*html{cursor:var(--defaultCursor);}
 p, li, text, #commentInput, h1, h2, h3, h4, h5, h6, h7, b, i, .shortRight div, .box.blurbs .blogs div {cursor:var(--textCursor);}
@@ -180,3 +184,7 @@ audio::-webkit-media-controls-panel{background:teal;}
 @media only screen 
 	and (min-device-width : 768px)
 {.boxHead{background:teal;}}
+
+#name.uName, .extended.box h3 {
+	font-family:cyberpunk;
+}
