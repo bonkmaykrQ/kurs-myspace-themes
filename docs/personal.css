@@ -14,12 +14,14 @@ content:url("https://files.gamebanana.com/bitpit/acfa68bd01f226997ceaebf512dd55c
 /*Space Age: https://files.gamebanana.com/bitpit/615cd467dff91f8ba858967064b133b6.png*/
 }
 
+/*
 #sMsg::after {content:"Annoy";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
 #sMsg {font-size:0px;}
 #block::after {content:"Be a Pussy";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);}
 #block {font-size:0px;}
 #report::after{content:"Snitch";font-size:15px;cursor: url(https://files.gamebanana.com/bitpit/red_neon_links.cur);} 
 #report{font-size:0px;} 
+*/
 
 #avatar.avatar{margin-top:10px;padding-top:5px;padding-bottom:5px;
 background: -moz-radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,85,0,0.577468487394958) 33%, rgba(2,0,36,0) 49%);
