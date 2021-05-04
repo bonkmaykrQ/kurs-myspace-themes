@@ -1,0 +1,164 @@
+/*  This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+@import url("https://bonkmaykrq.github.io/kurs-myspace-themes/snippets/dependencies/custom-cursors.css");
+
+:root{
+    --defaultCursor:        url("https://files.gamebanana.com/bitpit/normal_85f4a.png"),default !important;
+    --textCursor:   url("https://files.gamebanana.com/bitpit/text_42755.png"),text !important;
+    --pointerCursor:   url("https://files.gamebanana.com/bitpit/link_b8d24.png"),default !important;
+}
+
+body {
+	background:url("https://files.gamebanana.com/bitpit/e0fom-e.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	
+	color:white;
+	
+	display:flex;
+	justify-content: center;
+	align-content: center;
+}
+
+a, div.boxButton {
+	color:red !important;
+	text-decoration:none !important;
+}
+
+a:hover, div.boxButton:hover {
+	color:#ff5555 !important;
+	text-decoration-line:line-through !important;
+}
+
+#online {
+	content:url("https://files.gamebanana.com/bitpit/online_dcb1c.png");
+}
+
+div#container {
+	background:rgba(0,0,0,0.7);
+	backdrop-filter:blur(5px);
+	border:1px solid red;
+	width:100%;
+	padding-left:4vw;
+	padding-right:4vw;
+}
+
+div.topRight {
+	width:100%;
+	float:unset;
+	margin-top:52.5px;
+}
+
+div.topLeft {z-index: 1;margin-top:52.5px;}
+
+.extended.box, .box.blurbs {
+	float:right;
+  width:52.5%;
+}
+
+.box.fwiends, .box.comments {
+	float:right;
+  width:100%;
+}
+
+#header {
+	background: #660000 !important;
+	/*position: sticky !important;
+	width:100%;
+	top:0px;*/
+}
+
+#hSub {
+	background: #880000 !important;
+	color:#ff0000 !important;
+	/*position: sticky !important;
+	width:100%;
+	top:34px;*/
+}
+
+div.rightHead, div.boxHead, div.player.box {
+	background: #660000;
+	color:#ff6666;
+	border:1px solid red;
+}
+
+h4 {
+	/*background: #66000044;*/
+	color:#ff6666;
+	/*border:1px solid #ff000033;*/
+}
+
+div.boxInfo.box, div.url.box {
+	background: #66000044;
+	color:#ff6666;
+	border:1px solid #ff000033;
+}
+
+textarea, #userWall > tbody > tr > td, div.extended.box {
+	background: #66000044;
+	color:#ff6666;
+	border:1px solid #ff0000;
+}
+
+div.box.blog, div.topLeft.blogCard {
+	background: #66000044;
+	color:#ff6666;
+	border:1px inset #ff0000;
+}
+
+div.box.blog {
+	margin-top:-10px;
+}
+
+textarea:hover {
+	background: #66000099;
+	color:#ff6666;
+	border:1px solid #ff9999;
+}
+
+textarea:focus {
+	background: #66000077;
+	color:#ff6666;
+	border:1px solid #ff6666;
+}
+
+input[type="submit"], button {
+	background: #66000044;
+	color:#ff6666;
+	border:1px solid #ff0000;
+}
+
+input[type="submit"]:hover, button:hover {
+	background: #66000099;
+	color:#ff6666;
+	border:1px solid #ff9999;
+}
+
+input[type="submit"]:active, button:active {
+	background: #66000077;
+	color:#ff6666;
+	border:1px solid #ff6666;
+}
+
+/*please fix #userWall > tbody > tr > td.tableLeft > a */
+
+div.box.comments {
+	margin-top:15px;
+}
+
+div.blogTitle > .uName {
+	margin-top:50px !important;
+}
