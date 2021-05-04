@@ -19,6 +19,25 @@
     --pointerCursor:   url("https://files.gamebanana.com/bitpit/link_b8d24.png"),default !important;
 }
 
+@font-face {
+	font-family:daggersquare;
+	src:url("https://files.gamebanana.com/bitpit/daggersquare.otf");
+}
+
+*::selection {color:#ffffffaa;background:#ff333388;}
+*::-moz-selection {color:#ffffffaa;background:#ff333388;}
+
+#header > a.logo > b {font-size:0px;}
+#header > a.logo > b:after {
+	content:"www.quake3world.com";
+	font-size:15px;
+	cursor: var(--pointerCursor);
+}
+
+b, h1, h2, h3, h4 {
+	font-family:daggersquare;
+}
+
 body {
 	background:url("https://files.gamebanana.com/bitpit/e0fom-e.jpg");
 	background-size:cover;
@@ -163,8 +182,8 @@ div.blogTitle > .uName {
 	margin-top:50px !important;
 }
 
-.imgPreview {
-  display: flex;
+#imgPreview {
+  display: block;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -172,6 +191,39 @@ div.blogTitle > .uName {
 	
 	position: sticky;
   height: 100vh;
+	margin-left:-4vw;
+	margin-right:-4vw;
+	width:calc(100% + 8vw);
 }
 
 /*.imgPreview img {position: fixed !important;top:5px !important;}*/
+
+@media only screen and (max-width:768px) {
+	#container {
+		padding-top:0px;
+		backdrop-filter: none !important;
+		background: rgba(0,0,0,0.8) !important;
+		padding-left:0px !important;
+		padding-right:20px !important;
+	}
+
+div.topRight {
+	float:left !important;
+	width: 100% !important;
+}
+
+div.topLeft {
+	float:left !important;
+	width: 100% !important;
+	}
+
+.extended.box, .box.blurbs {
+	float:left !important;
+  width:100% !important;
+}
+
+.box.fwiends, .box.comments {
+	float:left !important;
+  width:100% !important;
+}
+}
