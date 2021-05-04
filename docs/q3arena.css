@@ -162,3 +162,16 @@ div.box.comments {
 div.blogTitle > .uName {
 	margin-top:50px !important;
 }
+
+.imgPreview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+	
+	position: sticky;
+  height: 100vh;
+}
+
+/*.imgPreview img {position: fixed !important;top:5px !important;}*/
