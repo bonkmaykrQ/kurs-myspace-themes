@@ -23,7 +23,7 @@ image-rendering: pixelated;
 
 /* View Counter - utf-4096 */
 td.shortRight::after {
-  content:url("https://mvc.penguins.win/cat.png?id=your_id");
+  content:url("https://mvc.penguins.win/cat.png?id=14790");
   margin-top:10px !important;
   display:block;
 }
