@@ -1,0 +1,60 @@
+/* topLeft Blinkies */
+.url.box {
+  /*
+  height:0px;
+  padding: 0px;
+  border: none !important;
+  pointer-events: none;
+  */
+  
+  display:block;
+  content:url("https://blinki.es/blinkies/emo/goddess-ate-my-homework.gif");
+  height: auto;
+  width:100%;
+  margin-bottom:20px;
+  margin-top:20px;
+  padding: 0px;
+  border: none !important;
+  
+-ms-interpolation-mode: nearest-neighbor;
+image-rendering: crisp-edges;
+image-rendering: pixelated;
+}
+
+/* View Counter - utf-4096 */
+td.shortRight::after {
+  content:url("https://mvc.penguins.win/cat.png");
+  margin-top:10px !important;
+  display:block;
+}
+
+/*
+.url.box::after {
+  display:block;
+  content:url("https://blinki.es/blinkies/animal/dogs-are-people-too.gif");
+  height: auto;
+  width:100%;
+  margin-bottom:20px;
+  margin-top:20px;
+  padding: 0px;
+  border: none !important;
+  
+-ms-interpolation-mode: nearest-neighbor;
+image-rendering: crisp-edges;
+image-rendering: pixelated;
+}
+.url.box::before {
+  display:block;
+  content:url("https://blinki.es/blinkies/people/night-person.gif");
+  height: auto;
+  width:100%;
+  margin-bottom:20px;
+  margin-top:20px;
+  padding: 0px;
+  border: none !important;
+  
+-ms-interpolation-mode: nearest-neighbor;
+image-rendering: crisp-edges;
+image-rendering: pixelated;
+}
+*/
