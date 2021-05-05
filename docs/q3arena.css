@@ -59,7 +59,7 @@ a, div.boxButton {
 
 a:hover, div.boxButton:hover {
 	color:#ff5555 !important;
-	text-decoration-line:line-through !important;
+	text-decoration-line:underline !important;
 }
 
 #online {
@@ -135,11 +135,17 @@ textarea, #userWall > tbody > tr > td, div.extended.box {
 div.box.blog, div.topLeft.blogCard {
 	background: #66000044;
 	color:#ff6666;
-	border:1px inset #ff0000;
+	border:1px solid #ff0000;
 }
 
-div.box.blog {
-	margin-top:-10px;
+@media only screen and (min-width: 769px) {
+  div.blogs > div > div.comments  div.box.blog {
+  	/*margin-left:-10px !important;*/
+  }.topRight.blogPost{padding-left:0px !important;}
+  
+  div.blogs > div > .blog:nth-child(1) {
+  	margin-top:-10px;
+  	}
 }
 
 textarea:hover {
@@ -207,6 +213,8 @@ div.blogTitle > .uName {
 		padding-right:20px !important;
 	}
 
+	.topLeft.blogCard {border-left:none !important;}
+	
 div.topRight {
 	float:left !important;
 	width: 100% !important;
